@@ -1,0 +1,6 @@
+1. Cassandra CLI
+   $cassandra-cli -host <your_host> -port <your_port>
+  
+2. Command:
+   cassa-cli-prompt>show keyspaces   # list all keyspaces
+    
